@@ -1,9 +1,16 @@
-**# serverless-webapp**
+# **Serverless-webapp-aws**
+This is a serverless web application that allows users to input their email address and check for user details. The application consists of an index.html file that can be easily opened in any web browser. 
 
-##  To run 
+##  How to Run the Application 
 
-# 1. Open index.html
+To run the application, follow these simple steps:
 
-# give an email as => user@gmail.com
+1. Clone the repository to your local machine using the command git clone https://github.com/your-username/serverless-webapp.git
 
-# and check for userdetails!
+2. Navigate to the directory where the repository was cloned using cd serverless-webapp
+
+3. Open the index.html file in your preferred web browser
+
+4. Enter your email address in the input field provided
+
+5. Click on the "Check Details" button to view the user details.
