@@ -5,7 +5,7 @@ This is a serverless web application that allows users to input their email addr
 
 To run the application, follow these simple steps:
 
-1. Clone the repository to your local machine using the command git clone https://github.com/your-username/serverless-webapp.git
+1. Clone the repository to your local machine using the command git clone https://github.com/SaiKapilKumar/Serverless-Web-app-aws.git
 
 2. Navigate to the directory where the repository was cloned using cd serverless-webapp
 
