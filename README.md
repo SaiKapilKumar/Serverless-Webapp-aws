@@ -11,7 +11,7 @@ To run the application, follow these simple steps:
 
 3. Open the index.html file in your preferred web browser
 
-4. Enter your email address in the input field provided
+4. Enter email address = user@gmail.com in the input field provided
 
 5. Click on the "Check Details" button to view the user details.
 
