@@ -1,7 +1,7 @@
 # **Serverless-webapp-aws**
 This is a serverless web application that allows users to input their email address and check for user details. The application consists of an index.html file that can be easily opened in any web browser. 
 
-##  How to Run the Application 
+## How to Run the Application 
 
 To run the application, follow these simple steps:
 
@@ -14,3 +14,6 @@ To run the application, follow these simple steps:
 4. Enter your email address in the input field provided
 
 5. Click on the "Check Details" button to view the user details.
+
+## Architecture
+![Architecture](https://github.com/SaiKapilKumar/Serverless-Webapp-aws/blob/077c91d13d395c19bedcb40c7651335be3b2c2f3/img.png)
